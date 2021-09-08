@@ -1,0 +1,34 @@
+/* You can add global styles to this file, and also import other style files */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
+
+:root {
+  /*Colors */
+  --primary-color: #65b79f;
+  --primary-color-900: #1e6d55;
+  --secondary-color: #6B7588;
+  --firstBackground-color: #ffffff;
+ 
+
+  /*Font sizes*/
+  --bigTitle-size: 1.5rem;
+  --big-size: 1.25rem;
+  --regular-size: 1.15rem;
+  --medium-size: 1.25rem;
+  
+  
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  color: #6B7588;
+  font-family: 'Montserrat', sans-serif;
+ background-color: #F3F5F9;
+
+}
+*{
+  outline: 0;
+}
